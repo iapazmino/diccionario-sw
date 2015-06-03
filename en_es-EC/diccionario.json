@@ -32,5 +32,8 @@
     ],
     "threat modeling": [
         "modelo de amenazas"
-    ]
+    ],
+    "structured logging": [
+        "logs estructurados"
+        ]
 }
