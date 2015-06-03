@@ -21,5 +21,16 @@
     ],
     "threat modeling": [
         "modelo de amenazas"
+    ],
+    "merge": [
+        "unir",
+        "fundir"
+    ],
+    "rebase": [
+        "cambiar la base"
+    ],
+    "stash": [
+        "esconder",
+        "guardar"
     ]
 }
