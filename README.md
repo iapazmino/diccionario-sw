@@ -23,3 +23,16 @@ Las traducciones van en un archivo de llamado diccionario.json dentro de una car
 El formato de los archivos es JSON para que a futuro puedan ser explotados por una aplicación o importados a un repositorio de datos fácilmente.
 
 Una vez modificado un archivo se puede validar su estructura en http://jsonlint.com
+
+## Colaborar
+### Solicitar traducciones
+
+1. Abre la sección [Issues](https://github.com/iapazmino/diccionario-sw/issues) y presiona el botón "New issue".
+2. Registra en el título la traducción que requieres y el idioma de destino. Si crees conveniente agrega algún comentario que guíe la traducción.
+
+### Enviar traducciones
+Para agregar o modificar una traducción solamente necesitas seguir los siguientes tres pasos.
+
+1. Haz una copia de este proyecto presionando el botón [Fork](https://github.com/iapazmino/diccionario-sw#fork-destination-box) ubicado en la parte superior derecha de esta página. **Esto es necesario hacerlo solo una vez.**
+2. Abre el archivo diccionario.json de la sección que vas a editar y agrega el contenido y escribe un comentario de la adición en la caja de texto "Commit changes" y presiona el botón con el mismo nombre.
+3. Finalmente abre la sección "Pull requests", presiona el botón "New pull request" y en la pantalla que aparece a continuación presiona el botón "Create pull request".
