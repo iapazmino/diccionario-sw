@@ -5,6 +5,9 @@ El objetivo de este diccionario es recopilar los términos que aparecen en las m
 
 Este diccionario es además mi último esfuerzo por defender el idioma.
 
+**Este proyecto no contiene traducciones oficiales.**
+**Su uso es gratuito y sin ninguna garantía.**
+
 ## Estructura de archivos
 Las traducciones van en un archivo de llamado diccionario.json dentro de una carpeta nombrada a partir del idioma de origen y el idioma y cultura de destino. Por ejemplo:
 
