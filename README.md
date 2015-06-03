@@ -15,4 +15,7 @@ Las traducciones van en un archivo de llamado diccionario.json dentro de una car
 |- diccionario.json
 ```
 
+## Formato de los archivos
 El formato de los archivos es JSON para que a futuro puedan ser explotados por una aplicación o importados a un repositorio de datos fácilmente.
+
+Una vez modificado un archivo se puede validar su estructura en http://jsonlint.com
