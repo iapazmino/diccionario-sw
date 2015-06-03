@@ -1,0 +1,25 @@
+{
+    "canary builds": [
+        "canary builds"
+    ],
+    "commit": [
+        "suscribir"
+    ],
+    "contract testing": [
+        "pruebas de contrato"
+    ],
+    "deploy": [
+        "desplegar",
+        "despliegue"
+    ],
+    "deployment": [
+        "despliegue"
+    ],
+    "test": [
+        "prueba",
+        "probar"
+    ],
+    "threat modeling": [
+        "modelo de amenazas"
+    ]
+}
