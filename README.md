@@ -6,6 +6,7 @@ El objetivo de este diccionario es recopilar los términos que aparecen en las m
 Este diccionario es además mi último esfuerzo por defender el idioma.
 
 **Este proyecto no contiene traducciones oficiales.**
+
 **Su uso es gratuito y sin ninguna garantía.**
 
 ## Estructura de archivos
