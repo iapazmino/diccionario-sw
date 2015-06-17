@@ -19,6 +19,9 @@
         "unir",
         "fundir"
     ],
+    "microservices": [
+        "microservicios"
+        ],
     "rebase": [
         "cambiar la base"
     ],
